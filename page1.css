@@ -1,0 +1,27 @@
+@font-face {
+  font-family: assiefont;
+  src: url('Januari.ttf');
+}
+
+.brand1 {
+  text-align: center;
+  background-color: #91d1c3;
+  width: 300px;
+  height: 200p;
+  margin: auto;
+  border-radius: 2px
+} 
+
+.brand1 .brand2 h {
+  font-size: 30px;
+  color: red;
+  font-family: assiefont;
+}
+
+
+.brand1 button{font-size: 20px;
+  color: #bdbcf6;
+  background-color: solid;
+  border-style: solid-black;
+  
+}

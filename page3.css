@@ -1,0 +1,38 @@
+@font-face {
+            font-family: assiefont;
+  src: URL('Januari.ttf');
+}
+
+
+.font1 {
+  text-align: center;
+  background-color: yellow;
+  width: 400px;
+  height: 400px;
+  margin: auto;
+}
+
+
+
+.font2 {
+  font-size: 40px;
+  color: pink;
+  font-family: assiefont;
+}
+
+
+.font3 {
+  font-size: 20px;
+  margin-top:
+  
+}
+.font1 button {margin-top: 8px;
+  background-color: green;
+  border-style: solid;
+  border-color: green;
+  border-radius: 2px;
+}
+
+.font1 img {margin-top: 8px
+  
+}

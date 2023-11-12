@@ -1,0 +1,29 @@
+@font-face {
+  font-family: assiefont;
+  src: url('Januari.ttf');
+  
+}
+
+
+.box1 {
+  text-align: center;
+  background-color: black;
+  width: 350px;
+  height: 350px;
+  margin: auto;
+  border-radius: 4px;
+}
+
+.box2 {
+  font-size: 39px;
+  color: #bac43f;
+  font-family: assiefont;
+  
+}
+
+
+button h {color: bold;
+ margin-top: 5px;
+  width: 30px;
+  margin: 10px;
+}
